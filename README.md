@@ -35,8 +35,14 @@ Check the Resources file for a comprehensive list.
 
 Progress
 Day 1: [16-01-2024]
- Completed a onr topic on [system design]
+ Completed one topic on [system design]
  DSA Revision [Arrays]
+ Solved 1 coding problems on LeetCode
+
+ Progress
+Day 2: [17-01-2024]
+ Completed one topic on [system design]
+ DSA Revision [PrefixSum]
  Solved 1 coding problems on LeetCode
 
 
