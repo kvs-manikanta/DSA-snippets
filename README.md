@@ -33,17 +33,21 @@ Coding platforms
 Tutorials and documentation
 Check the Resources file for a comprehensive list.
 
-Progress
+Progress :
 Day 1: [16-01-2024]
  Completed one topic on [system design]
  DSA Revision [Arrays]
  Solved 1 coding problems on LeetCode
 
- Progress
 Day 2: [17-01-2024]
  Completed one topic on [system design]
  DSA Revision [PrefixSum]
  Solved 1 coding problems on LeetCode
+
+ Day 3: [18-01-2024]
+ Completed one topic on [system design]
+ DSA Revision [Two pointers]
+ Solved Next Permutation coding problem on LeetCode
 
 
 LinkedIn: www.linkedin.com/in/kvs-manikanta-1a0141161
