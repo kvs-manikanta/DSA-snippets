@@ -49,6 +49,11 @@ Day 2: [17-01-2024]
  DSA Revision [Two pointers]
  Solved Next Permutation coding problem on LeetCode
 
+ Day 4: [19-01-2024]
+ Completed one topic on [system design]
+ DSA Revision [SubArrays]
+ Solved Max Subarray sum coding problem on LeetCode
+
 
 LinkedIn: www.linkedin.com/in/kvs-manikanta-1a0141161
 
