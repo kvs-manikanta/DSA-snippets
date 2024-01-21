@@ -59,6 +59,11 @@ Day 2: [17-01-2024]
  DSA Revision [Arrays]
  Solved Buy and sell stocks coding problem on LeetCode
 
+ Day 5: [21-01-2024]
+ Completed one topic on [system design]-Cache
+ DSA Revision Done
+ Solved Rotate Matrix coding problem on LeetCode
+
 
 LinkedIn: www.linkedin.com/in/kvs-manikanta-1a0141161
 
