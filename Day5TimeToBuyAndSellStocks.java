@@ -23,6 +23,7 @@ public class Day5TimeToBuyAndSellStocks {
         {
             A[i]=sc.nextInt();
         }
+        sc.close();
         int prof=maxProfit(A);
         System.out.println(prof);
 

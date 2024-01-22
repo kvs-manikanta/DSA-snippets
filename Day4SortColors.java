@@ -39,6 +39,7 @@ public class Day4SortColors {
         {
             A[i]=sc.nextInt();
         }
+        sc.close();
         sortColors(A);
 
         for(int i=0;i<A.length;i++)
