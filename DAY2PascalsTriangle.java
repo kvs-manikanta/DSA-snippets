@@ -17,7 +17,7 @@ public class DAY2PascalsTriangle {
 
     public static List<Integer> generateRow(int r, List<Integer> lst)
     {
-        /*4rd row -- 1  3  3  1 ---> 
+        /*4th row -- 1  3  3  1 ---> 
         we are going from 1st col to the n-2 col for genarating the values 
         observing the the pattern can get the formula below */
         int val=1;
