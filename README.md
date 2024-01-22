@@ -64,6 +64,11 @@ Day 2: [17-01-2024]
  DSA Revision Done
  Solved Rotate Matrix coding problem on LeetCode
 
+  Day 5: [22-01-2024]
+ Completed one topic on [system design]-Cache Tier
+ DSA Revision Done
+ Solved Merge Intervals coding problem on LeetCode
+
 
 LinkedIn: www.linkedin.com/in/kvs-manikanta-1a0141161
 
