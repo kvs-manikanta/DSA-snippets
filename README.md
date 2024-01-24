@@ -59,20 +59,26 @@ Day 2: [17-01-2024]
  DSA Revision [Arrays]
  Solved Buy and sell stocks coding problem on LeetCode
 
- Day 5: [21-01-2024]
+ Day 6: [21-01-2024]
  Completed one topic on [system design]-Cache
  DSA Revision Done
  Solved Rotate Matrix coding problem on LeetCode
 
-  Day 5: [22-01-2024]
+ Day 7: [22-01-2024]
  Completed one topic on [system design]-Cache Tier
  DSA Revision Done
  Solved Merge Intervals coding problem on LeetCode
 
-  Day 5: [23-01-2024]
+ Day 8: [23-01-2024]
  Completed one topic on [system design]-CDN 
  SQL Revision Joins 
  Solved Merge Sort in place sorting coding problem on LeetCode
+
+ Day 9: [24-01-2024]
+ Completed one topic on [system design]-Stateless and statefull servers  
+ SQL Revision Joins 
+ Solved Find duplicate number coding problem on LeetCode
+
  
 LinkedIn: www.linkedin.com/in/kvs-manikanta-1a0141161
 
