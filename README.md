@@ -78,6 +78,7 @@ Day 2: [17-01-2024]
  Completed one topic on [system design]-Stateless and statefull servers  
  SQL Revision Joins 
  Solved Find duplicate number coding problem on LeetCode
+ Solved problem on Inversion pair count , repeat and missing number in an array on coding ninjas and interviewbit .
 
  
 LinkedIn: www.linkedin.com/in/kvs-manikanta-1a0141161
