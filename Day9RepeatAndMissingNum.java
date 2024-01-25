@@ -18,6 +18,7 @@ public class Day9RepeatAndMissingNum {
                 }
             }
         }
+
     }
 
     public static void main(String[] args) {
