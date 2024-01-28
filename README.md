@@ -94,6 +94,11 @@ Day 2: [17-01-2024]
  Completed one topic on [system design]-Back of Envelope Estimation 
  SQL Revision Indexing
  Solved Unique paths in a grid coding problem on LeetCode
+
+   Day 13: [28-01-2024]
+ Completed one topic on [system design]-Back of Envelope Estimation 
+ SQL Revision Indexing
+ Solved Reverse pairs coding problem on LeetCode
  
 LinkedIn: www.linkedin.com/in/kvs-manikanta-1a0141161
 
