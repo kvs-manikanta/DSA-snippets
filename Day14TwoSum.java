@@ -31,6 +31,7 @@ public class Day14TwoSum {
         }
         int target=sc.nextInt();
         int res[]=new int[2];
+        sc.close();
         res=twoSum(A, target);
 
         System.out.println(res[0]+" "+res[1]);
