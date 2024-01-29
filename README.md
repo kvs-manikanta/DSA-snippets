@@ -80,25 +80,30 @@ Day 2: [17-01-2024]
  Solved Find duplicate number coding problem on LeetCode
  Solved problem on Inversion pair count , repeat and missing number in an array on coding ninjas and interviewbit
 
-  Day 10: [25-01-2024]
+ Day 10: [25-01-2024]
  Completed one topic on [system design]-Scale users from 1 to millions 
  SQL Revision SubQueries 
  Solved Power Function problem and Search in 2D Matrix coding problem on LeetCode
 
-  Day 11: [26-01-2024]
+ Day 11: [26-01-2024]
  Completed one topic on [system design]-Scale users from 1 to millions 
  SQL Revision SubQueries 
  Solved Majority element (n/2,n/3) problem coding problem on LeetCode
  
-  Day 12: [27-01-2024]
+ Day 12: [27-01-2024]
  Completed one topic on [system design]-Back of Envelope Estimation 
  SQL Revision Indexing
  Solved Unique paths in a grid coding problem on LeetCode
 
-   Day 13: [28-01-2024]
+ Day 13: [28-01-2024]
  Completed one topic on [system design]-Back of Envelope Estimation 
  SQL Revision Indexing
  Solved Reverse pairs coding problem on LeetCode
+
+ Day 14: [29-01-2024]
+ Completed one topic on [system design]-Back of Envelope Estimation 
+ SQL Revision Transactions
+ Solved Two sum coding problem on LeetCode
  
 LinkedIn: www.linkedin.com/in/kvs-manikanta-1a0141161
 
