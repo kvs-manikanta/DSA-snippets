@@ -103,7 +103,12 @@ Day 2: [17-01-2024]
  Day 14: [29-01-2024]
  Completed one topic on [system design]-Back of Envelope Estimation 
  SQL Revision Transactions
- Solved Two sum coding problem on LeetCode
+ Solved Two sum and four sum coding problem on LeetCode
+
+  Day 15: [30-01-2024]
+ Completed one topic on [system design]-Scale users from 1 to millions 
+ SQL Revision Transactions
+ Solved longest consecutive sequence coding problem on LeetCode
  
 LinkedIn: www.linkedin.com/in/kvs-manikanta-1a0141161
 
