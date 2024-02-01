@@ -109,6 +109,16 @@ Day 2: [17-01-2024]
  Completed one topic on [system design]-Scale users from 1 to millions 
  SQL Revision Transactions
  Solved longest consecutive sequence coding problem on LeetCode
+
+ Day 16: [31-01-2024]
+ Completed one topic on [system design]-OAuth  
+ SQL Revision Schema Design
+ Solved Longest substring without repeating coding problem on LeetCode
+ 
+ Day 17: [01-02-2024]
+ Completed one topic on [system design]-Scale users from 1 to millions 
+ SQL Revision Schema Design
+ Solved Reverese a LinkedList coding problem on LeetCode
  
 LinkedIn: www.linkedin.com/in/kvs-manikanta-1a0141161
 
