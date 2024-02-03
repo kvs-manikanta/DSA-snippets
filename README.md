@@ -118,7 +118,12 @@ Day 2: [17-01-2024]
  Day 17: [01-02-2024]
  Completed one topic on [system design]-Scale users from 1 to millions 
  SQL Revision Schema Design
- Solved Reverese a LinkedList coding problem on LeetCode
+ Solved Reverese a LinkedList , merge sorted lists coding problem on LeetCode
+
+  Day 18: [02-02-2024]
+ Completed one topic on [system design]- Database Replication
+ SQL Revision Schema Design
+ Solved delete nth node from end coding problem on LeetCode
  
 LinkedIn: www.linkedin.com/in/kvs-manikanta-1a0141161
 
