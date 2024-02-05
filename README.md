@@ -105,7 +105,7 @@ Day 2: [17-01-2024]
  SQL Revision Transactions
  Solved Two sum and four sum coding problem on LeetCode
 
-  Day 15: [30-01-2024]
+ Day 15: [30-01-2024]
  Completed one topic on [system design]-Scale users from 1 to millions 
  SQL Revision Transactions
  Solved longest consecutive sequence coding problem on LeetCode
@@ -120,10 +120,16 @@ Day 2: [17-01-2024]
  SQL Revision Schema Design
  Solved Reverese a LinkedList , merge sorted lists coding problem on LeetCode
 
-  Day 18: [02-02-2024]
+ Day 19: [03-02-2024]
  Completed one topic on [system design]- Database Replication
  SQL Revision Schema Design
- Solved delete nth node from end coding problem on LeetCode
+ Solved delete given node coding problem on LeetCode
+
+ Day 20: [02-02-2024]
+ Completed one topic on [system design]- Database Replication
+ SQL Revision ACID Properties
+ Solved Intersection Node coding problem on LeetCode
+
  
 LinkedIn: www.linkedin.com/in/kvs-manikanta-1a0141161
 
