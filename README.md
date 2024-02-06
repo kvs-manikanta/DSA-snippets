@@ -130,6 +130,11 @@ Day 2: [17-01-2024]
  SQL Revision ACID Properties
  Solved Intersection Node coding problem on LeetCode
 
+ Day 21: [02-02-2024]
+ Completed one topic on [system design]- Database Replication
+ SQL Revision ACID Properties
+ Solved Reverse K group of a List coding problem on LeetCode
+
  
 LinkedIn: www.linkedin.com/in/kvs-manikanta-1a0141161
 
