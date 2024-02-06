@@ -1,3 +1,5 @@
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuB_ghodzoD6tcleBOiNI3PVhJQM33o0dy3LseDvH-Tz8IjBsATf-YKlYee_tzGrcpaDA&usqp=CAU)](https://kvs-manikanta.io)
+
 100 Days of Code Challenge
 
 Overview :
@@ -131,12 +133,17 @@ Day 2: [17-01-2024]
  Solved Intersection Node coding problem on LeetCode
 
  Day 21: [02-02-2024]
- Completed one topic on [system design]- Database Replication
+ Completed one topic on [system design]- Load Balancing
  SQL Revision ACID Properties
  Solved Reverse K group of a List coding problem on LeetCode
 
- 
-LinkedIn: www.linkedin.com/in/kvs-manikanta-1a0141161
+ Day 22: [02-02-2024]
+ Completed one topic on [system design]- Load Balancing
+ SQL Revision 
+ Solved check palindrome of given LinkedList coding problem on LeetCode
+
+Connect with me :
+<a href="https://linkedin.com/in/www.linkedin.com/in/kvs-manikanta-1a0141161" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/kvs-manikanta-1a0141161" height="30" width="40" /></a>
 
 Let's inspire and support each other on this coding journey! 🚀
 
