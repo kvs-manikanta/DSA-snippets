@@ -141,8 +141,14 @@ Day 2: [17-01-2024]
  Completed one topic on [system design]- Load Balancing
  SQL Revision 
  Solved check palindrome of given LinkedList coding problem on LeetCode
+ 
+ Day 22: [02-02-2024]
+ Completed one topic on [system design]- Load Balancing
+ SQL Revision 
+ Solved check Flatten LL and Rotate given LL K times coding problem on LeetCode
 
 Connect with me :
+
 <a href="https://linkedin.com/in/www.linkedin.com/in/kvs-manikanta-1a0141161" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/kvs-manikanta-1a0141161" height="30" width="40" /></a>
 
 Let's inspire and support each other on this coding journey! 🚀
