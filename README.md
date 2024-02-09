@@ -157,6 +157,11 @@ Day 2: [17-01-2024]
  SQL Revision - Preparing for SQL Mock
  Solved Deep copy of given LL coding problem on LeetCode
 
+ Day 25: [09-02-2024]
+ Completed one topic on - Spring Dependency Injection
+ SQL Revision - Preparing for SQL Mock
+ Solved ThreeSum and RainWaterTrapped coding problem on LeetCode
+
 Connect with me :
 
 <a href="https://linkedin.com/in/www.linkedin.com/in/kvs-manikanta-1a0141161" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/kvs-manikanta-1a0141161" height="30" width="40" /></a>
