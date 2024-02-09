@@ -122,30 +122,40 @@ Day 2: [17-01-2024]
  SQL Revision Schema Design
  Solved Reverese a LinkedList , merge sorted lists coding problem on LeetCode
 
+ Day 18: [02-02-2024]
+ Completed one topic on [system design]-Scale users from 1 to millions 
+ SQL Revision Schema Design
+ Solved Nth node of a given lists coding problem on LeetCode
+
  Day 19: [03-02-2024]
  Completed one topic on [system design]- Database Replication
  SQL Revision Schema Design
  Solved delete given node coding problem on LeetCode
 
- Day 20: [02-02-2024]
+ Day 20: [04-02-2024]
  Completed one topic on [system design]- Database Replication
  SQL Revision ACID Properties
  Solved Intersection Node coding problem on LeetCode
 
- Day 21: [02-02-2024]
+ Day 21: [05-02-2024]
  Completed one topic on [system design]- Load Balancing
  SQL Revision ACID Properties
  Solved Reverse K group of a List coding problem on LeetCode
 
- Day 22: [02-02-2024]
+ Day 22: [06-02-2024]
  Completed one topic on [system design]- Load Balancing
  SQL Revision 
  Solved check palindrome of given LinkedList coding problem on LeetCode
  
- Day 22: [02-02-2024]
+ Day 23: [07-02-2024]
  Completed one topic on [system design]- Load Balancing
  SQL Revision 
  Solved check Flatten LL and Rotate given LL K times coding problem on LeetCode
+
+ Day 24: [08-02-2024]
+ Completed one topic on - Spring Dependency Injection
+ SQL Revision - Preparing for SQL Mock
+ Solved Deep copy of given LL coding problem on LeetCode
 
 Connect with me :
 
