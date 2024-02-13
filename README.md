@@ -1,38 +1,70 @@
 [![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuB_ghodzoD6tcleBOiNI3PVhJQM33o0dy3LseDvH-Tz8IjBsATf-YKlYee_tzGrcpaDA&usqp=CAU)](https://kvs-manikanta.io)
 
-100 Days of Code Challenge
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
 
-Overview :
-Welcome to my 100 Days of Code challenge repository! This project documents my journey through the #100DaysOfCode challenge, where I commit to coding for at least an hour every day for the next 100 days.
+  <h1>100 Days of Code Challenge</h1>
 
-Table of Contents :
-About the Challenge
-Goals
-Resources
-Progress
-Connect with Me
+  <h2>Overview</h2>
 
-About the Challenge :
-The #100DaysOfCode challenge is an initiative to encourage coding enthusiasts to commit to coding consistently for 100 days. The goal is to enhance programming skills, explore new technologies, and build a coding habit.
+  <p>Welcome to my 100 Days of Code challenge repository! This project documents my journey through the #100DaysOfCode challenge, where I commit to coding for at least an hour every day for the next 100 days.</p>
 
-This repository serves as a journal of my daily progress, challenges faced, and the projects I work on during the challenge.
+  <h2>Table of Contents</h2>
 
-Goals :
-My primary goals for this challenge include:
+  <ul>
+    <li>About the Challenge</li>
+    <li>Goals</li>
+    <li>Resources</li>
+    <li>Progress</li>
+    <li>Connect with Me</li>
+  </ul>
 
- Learn a new programming language
- Contribute to open-source projects
- Complete coding exercises on platforms like LeetCode and HackerRank
- Improve problem-solving skills
+  <h2>About the Challenge</h2>
+
+  <p>The #100DaysOfCode challenge is an initiative to encourage coding enthusiasts to commit to coding consistently for 100 days. The goal is to enhance programming skills, explore new technologies, and build a coding habit.</p>
+
+  <p>This repository serves as a journal of my daily progress, challenges faced, and the projects I work on during the challenge.</p>
+
+  <h2>Goals</h2>
+
+  <p>My primary goals for this challenge include:</p>
+
+  <ul>
+    <li>Learn a new programming language</li>
+    <li>Contribute to open-source projects</li>
+    <li>Complete coding exercises on platforms like LeetCode and HackerRank</li>
+    <li>Improve problem-solving skills</li>
+  </ul>
+
+  <h2>Resources</h2>
+
+  <p>I'll be using various resources throughout the challenge, including:</p>
+
+  <ul>
+    <li>Online courses</li>
+    <li>Programming books</li>
+    <li>Coding platforms</li>
+    <li>Tutorials and documentation</li>
+  </ul>
+
+  <p>Check the Resources file for a comprehensive list.</p>
+
+  <h2>Progress</h2>
+
+  <p>Here's a summary of my progress:</p>
+
+  <!-- Insert the progress here -->
 
 
-Resources :
-I'll be using various resources throughout the challenge, including:
+</body>
+</html>
 
-Online courses
-Programming books
-Coding platforms
-Tutorials and documentation
+
 Check the Resources file for a comprehensive list.
 
 Progress :
@@ -162,10 +194,20 @@ Day 2: [17-01-2024]
  SQL Revision - Preparing for SQL Mock
  Solved ThreeSum and RainWaterTrapped coding problem on LeetCode
 
- Day 25: [09-02-2024]
- Completed one topic on - Spring Dependency Injection
- DSA Revision - LinkedList
+ Day 26: [10-02-2024]
+ Completed one topic on - Spring REST API
+ DSA Revision - 
  Solved N Meetings ina room coding problem on LeetCode
+
+ Day 27: [11-02-2024]
+ Completed one topic on - Spring REST API
+ DSA Revision - 
+ Solved Min platforms of a train coding problem on LeetCode
+
+ Day 28: [12-02-2024]
+ Completed one topic on - Spring REST API
+ DSA Revision - 
+ Solved Job Scheduling and Fractional knapsack coding problem on LeetCode
 
 Connect with me :
 
