@@ -209,10 +209,15 @@ Day 2: [17-01-2024]
  DSA Revision - 
  Solved Job Scheduling and Fractional knapsack coding problem on LeetCode
 
- Day 28: [13-02-2024]
+ Day 29: [13-02-2024]
  Completed one topic on - Spring DATA REST 
  DSA Revision - 
  Solved Sum of Subsets coding problem on LeetCode
+
+ Day 30: [14-02-2024]
+ Completed one topic on - Spring DATA REST 
+ DSA Revision - 
+ Solved Generate Subsets coding problem on LeetCode
 
 Connect with me :
 
