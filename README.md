@@ -248,6 +248,11 @@ Day 2: [17-01-2024]
  Completed one topic on - Spring 
  DSA Revision - 
  Solved N Queens coding problem on LeetCode
+
+ Day 37: [22-02-2024]
+ Completed one topic on - Spring 
+ DSA Revision - 
+ Solved Sudoku Solver coding problem on LeetCode
  
  
 Connect with me :
