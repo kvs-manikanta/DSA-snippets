@@ -238,6 +238,17 @@ Day 2: [17-01-2024]
  Completed one topic on - Spring MVC CRUD
  DSA Revision - 
  Solved kth Permutation sequence coding problem on LeetCode
+
+ Day 35: [20-02-2024]
+ Completed one topic on - Spring
+ DSA Revision - 
+ Solved Generate All permutaions coding problem on LeetCode
+
+ Day 36: [21-02-2024]
+ Completed one topic on - Spring 
+ DSA Revision - 
+ Solved N Queens coding problem on LeetCode
+ 
  
 Connect with me :
 
