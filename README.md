@@ -196,73 +196,78 @@ Day 2: [17-01-2024]
 
  Day 26: [10-02-2024]
  Completed one topic on - Spring REST API
- DSA Revision - 
+ DSA Revision 
  Solved N Meetings ina room coding problem on LeetCode
 
  Day 27: [11-02-2024]
  Completed one topic on - Spring REST API
- DSA Revision - 
+ DSA Revision 
  Solved Min platforms of a train coding problem on LeetCode
 
  Day 28: [12-02-2024]
  Completed one topic on - Spring REST API
- DSA Revision - 
+ DSA Revision 
  Solved Job Scheduling and Fractional knapsack coding problem on LeetCode
 
  Day 29: [13-02-2024]
  Completed one topic on - Spring DATA REST 
- DSA Revision - 
+ DSA Revision 
  Solved Sum of Subsets coding problem on LeetCode
 
  Day 30: [14-02-2024]
  Completed one topic on - Spring DATA REST 
- DSA Revision - 
+ DSA Revision 
  Solved Generate Subsets coding problem on LeetCode
 
  Day 31: [15-02-2024]
  Completed one topic on - Spring MVC
- DSA Revision - 
+ DSA Revision 
  Solved Combination sum 1 coding problem on LeetCode
 
   Day 32: [16-02-2024]
  Completed one topic on - Spring MVC
- DSA Revision - 
+ DSA Revision 
  Solved Combination sum 2 using backtracking coding problem on LeetCode
 
  Day 33: [17-02-2024]
  Completed one topic on - Spring MVC CRUD
- DSA Revision - 
+ DSA Revision 
  Solved Palindrome Partition using backtracking coding problem on LeetCode
 
  Day 34: [19-02-2024]
  Completed one topic on - Spring MVC CRUD
- DSA Revision - 
+ DSA Revision 
  Solved kth Permutation sequence coding problem on LeetCode
 
  Day 35: [20-02-2024]
  Completed one topic on - Spring
- DSA Revision - 
+ DSA Revision 
  Solved Generate All permutaions coding problem on LeetCode
 
  Day 36: [21-02-2024]
  Completed one topic on - Spring 
- DSA Revision - 
+ DSA Revision  
  Solved N Queens coding problem on LeetCode
 
  Day 37: [22-02-2024]
  Completed one topic on - Spring 
- DSA Revision - 
+ DSA Revision 
  Solved Sudoku Solver coding problem on LeetCode
 
  Day 38: [22-02-2024]
  Completed one topic on - Spring 
- DSA Revision - 
+ DSA Revision 
  Solved M-Coloring Graph coding problem on LeetCode
 
  Day 39: [23-02-2024]
  Completed one topic on - Spring 
- DSA Revision - 
+ DSA Revision 
  Solved Single Element in sorted array coding problem on LeetCode
+
+ Day 40: [24-02-2024]
+ Completed one topic on - Concurrency class revision 
+ DSA Revision 
+ Solved Nth Root and Search in rotated sorted array coding problem on LeetCode
  
  
 Connect with me :
