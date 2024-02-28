@@ -268,6 +268,16 @@ Day 2: [17-01-2024]
  Completed one topic on - Concurrency class revision 
  DSA Revision 
  Solved Nth Root and Search in rotated sorted array coding problem on LeetCode
+
+ Day 41: [25-02-2024]
+ Completed one topic on - Concurrency class revision & Synchronization
+ DSA Revision 
+ Solved Median of matrix  coding problem on LeetCode
+
+ Day 42: [27-02-2024]
+ Completed one topic on - Concurrency class revision & Synchronization
+ DSA Revision 
+ Solved Median of 2 sorted arrays coding problem on LeetCode
  
  
 Connect with me :
