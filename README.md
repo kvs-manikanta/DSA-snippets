@@ -278,6 +278,11 @@ Day 2: [17-01-2024]
  Completed one topic on - Concurrency class revision & Synchronization
  DSA Revision 
  Solved Median of 2 sorted arrays coding problem on LeetCode
+
+ Day 43: [05-03-2024]
+ Completed one topic on - Concurrency class revision & Synchronization MUTEX
+ DSA Revision 
+ Solved Allocate Books arrays coding problem on LeetCode
  
  
 Connect with me :
