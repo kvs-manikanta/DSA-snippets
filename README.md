@@ -282,7 +282,12 @@ Day 2: [17-01-2024]
  Day 43: [05-03-2024]
  Completed one topic on - Concurrency class revision & Synchronization MUTEX
  DSA Revision 
- Solved Allocate Books arrays coding problem on LeetCode
+ Solved Allocate Books coding problem on LeetCode
+
+ Day 44: [07-03-2024]
+ Completed one topic on - Concurrency class revision & Synchronization MUTEX
+ DSA Revision 
+ Solved  Aggressive Cows coding problem on LeetCode
  
  
 Connect with me :
